@@ -1,0 +1,86 @@
+body {
+    background-color: #F0F7FF;
+    position: relative;
+
+    }
+hr {
+    border-color: #4682B4;
+    border-style: dotted none none;
+    border-width: 5px;
+    height: 0px;
+    width: 50%;
+    }
+
+h1 {
+    color: #276678;
+    }
+
+.info, .submit, p, li, td, tr, h3, h4 {
+    color: #00006b;
+    font-family: "Mukta";
+    }
+
+.my-image {
+    padding: 10px;
+    }
+
+.heading {
+    position: absolute;
+    padding-bottom: 20px;
+    left: 250px;
+    right: 100px;
+    top: -20px;
+    }
+
+.top-link:hover {
+    color: #1687a7;
+    }
+
+.top-link {
+    position: absolute;
+    }
+
+.reference {
+    left: 150px;
+    }
+
+.about {
+    left: 325px;
+    }
+
+.link:hover {
+    color: #1687a7;
+    }
+
+.submit:hover {
+    color: #1687a7;
+     }
+
+.name {
+    color: #276678;
+    font-family: "Benne", American Typewriter, serif;
+    font-variant: small-caps;
+    }
+
+.contact-info {
+    text-align: center;
+    }
+
+.email-info {
+    text-align: center;
+    }
+
+.my-intro{
+    position: relative;
+    }
+
+.me-image {
+    float: left;
+    padding-right: 20px;
+    }
+
+.code-image {
+    float: left;
+    padding-right: 30px;
+    padding-top: 10px;
+    }
